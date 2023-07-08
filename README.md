@@ -8,6 +8,6 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 
 ## Challenges
 
-| No  | Challenge           | Domain     | Difficulty |
-| --- | ------------------- | ---------- | ---------- |
-| 1   | [Challenge Name](#) | Algorithms | Easy       |
+| No  | Challenge                                                        | Domain     | Difficulty |
+| --- | ---------------------------------------------------------------- | ---------- | ---------- |
+| 1   | [Solve Me First](problem_solving/algorithms/easy/solve_me_first) | Algorithms | Easy       |
