@@ -13,3 +13,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 1   | [Solve Me First](problem_solving/algorithms/easy/solve_me_first)             | Algorithms | Easy       |
 | 2   | [Simple Array Sum](problem_solving/algorithms/easy/simple_array_sum)         | Algorithms | Easy       |
 | 3   | [Compare The Triplets](problem_solving/algorithms/easy/compare_the_triplets) | Algorithms | Easy       |
+| 4   | [A Very Big Sum](problem_solving/algorithms/easy/a_very_big_sum)             | Algorithms | Easy       |
