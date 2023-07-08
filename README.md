@@ -17,3 +17,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 5   | [Diagonal Difference](problem_solving/algorithms/easy/diagonal_difference)   | Algorithms | Easy       |
 | 6   | [Plus Minus](problem_solving/algorithms/easy/plus_minus)                     | Algorithms | Easy       |
 | 7   | [Staircase](problem_solving/algorithms/easy/staircase)                       | Algorithms | Easy       |
+| 8   | [Mini-Max Sum](problem_solving/algorithms/easy/min_max_sum)                  | Algorithms | Easy       |
