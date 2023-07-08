@@ -15,3 +15,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 3   | [Compare The Triplets](problem_solving/algorithms/easy/compare_the_triplets) | Algorithms | Easy       |
 | 4   | [A Very Big Sum](problem_solving/algorithms/easy/a_very_big_sum)             | Algorithms | Easy       |
 | 5   | [Diagonal Difference](problem_solving/algorithms/easy/diagonal_difference)   | Algorithms | Easy       |
+| 6   | [Plus Minus](problem_solving/algorithms/easy/plus_minus)                     | Algorithms | Easy       |
