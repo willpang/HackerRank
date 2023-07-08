@@ -19,3 +19,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 7   | [Staircase](problem_solving/algorithms/easy/staircase)                         | Algorithms | Easy       |
 | 8   | [Mini-Max Sum](problem_solving/algorithms/easy/min_max_sum)                    | Algorithms | Easy       |
 | 9   | [Birthday Cake Candles](problem_solving/algorithms/easy/birthday_cake_candles) | Algorithms | Easy       |
+| 10  | [Time Conversion](problem_solving/algorithms/easy/time_conversion)             | Algorithms | Easy       |
