@@ -23,3 +23,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 11  | [Grading Students](problem_solving/algorithms/easy/grading_students)           | Algorithms | Easy       |
 | 12  | [Apple and Orange](problem_solving/algorithms/easy/apple_and_orange)           | Algorithms | Easy       |
 | 13  | [Number Line Jumps](problem_solving/algorithms/easy/number_line_jumps)         | Algorithms | Easy       |
+| 14  | [Between Two Sets](problem_solving/algorithms/easy/between_two_sets)           | Algorithms | Easy       |
