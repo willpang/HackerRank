@@ -26,3 +26,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 14  | [Between Two Sets](problem_solving/algorithms/easy/between_two_sets)           | Algorithms | Easy       |
 | 15  | [Breaking the Records](problem_solving/algorithms/easy/breaking_the_records)   | Algorithms | Easy       |
 | 16  | [Subarray Division](problem_solving/algorithms/easy/subarray_division)         | Algorithms | Easy       |
+| 16  | [Divisible Sum Pairs](problem_solving/algorithms/easy/divisible_sum_pairs)     | Algorithms | Easy       |
