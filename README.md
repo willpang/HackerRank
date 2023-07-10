@@ -21,3 +21,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 9   | [Birthday Cake Candles](problem_solving/algorithms/easy/birthday_cake_candles) | Algorithms | Easy       |
 | 10  | [Time Conversion](problem_solving/algorithms/easy/time_conversion)             | Algorithms | Easy       |
 | 11  | [Grading Students](problem_solving/algorithms/easy/grading_students)           | Algorithms | Easy       |
+| 12  | [Apple and Orange](problem_solving/algorithms/easy/apple_and_orange)           | Algorithms | Easy       |
