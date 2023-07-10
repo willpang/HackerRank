@@ -29,3 +29,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 17  | [Divisible Sum Pairs](problem_solving/algorithms/easy/divisible_sum_pairs)     | Algorithms | Easy       |
 | 18  | [Migratory Birds](problem_solving/algorithms/easy/migratory_birds)             | Algorithms | Easy       |
 | 19  | [Day of the Programmer](problem_solving/algorithms/easy/day_of_the_programmer) | Algorithms | Easy       |
+| 20  | [Bill Division](problem_solving/algorithms/easy/bill_division)                 | Algorithms | Easy       |
