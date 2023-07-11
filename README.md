@@ -41,3 +41,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 29  | [Utopian Tree](problem_solving/algorithms/easy/utopian_tree)                                 | Algorithms | Easy       |
 | 30  | [Angry Professor](problem_solving/algorithms/easy/angry_professor)                           | Algorithms | Easy       |
 | 31  | [Beautiful Days at the Movies](problem_solving/algorithms/easy/beautiful_days_at_the_movies) | Algorithms | Easy       |
+| 32  | [Viral Advertising](problem_solving/algorithms/easy/viral_advertising)                       | Algorithms | Easy       |
