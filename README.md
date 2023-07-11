@@ -37,3 +37,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 25  | [Cats and a Mouse](problem_solving/algorithms/easy/cats_and_a_mouse)           | Algorithms | Easy       |
 | 26  | [Picking Numbers](problem_solving/algorithms/easy/picking_numbers)             | Algorithms | Easy       |
 | 27  | [The Hurdle Race](problem_solving/algorithms/easy/the_hurdle_race)             | Algorithms | Easy       |
+| 28  | [Designer PDF Viewer](problem_solving/algorithms/easy/designer_pdf_viewer)     | Algorithms | Easy       |
