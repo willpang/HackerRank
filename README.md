@@ -43,3 +43,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 31  | [Beautiful Days at the Movies](problem_solving/algorithms/easy/beautiful_days_at_the_movies) | Algorithms | Easy       |
 | 32  | [Viral Advertising](problem_solving/algorithms/easy/viral_advertising)                       | Algorithms | Easy       |
 | 33  | [Save the Prisoner!](problem_solving/algorithms/easy/save_the_prisoner)                      | Algorithms | Easy       |
+| 34  | [Circular Array Rotation](problem_solving/algorithms/easy/circular_array_rotation)           | Algorithms | Easy       |
