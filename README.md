@@ -47,3 +47,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 35  | [Sequence Equation](problem_solving/algorithms/easy/sequence_equation)                              | Algorithms | Easy       |
 | 36  | [Jumping on the Clouds: Revisited](problem_solving/algorithms/easy/jumping_on_the_clouds_revisited) | Algorithms | Easy       |
 | 37  | [Find Digits](problem_solving/algorithms/easy/find_digits)                                          | Algorithms | Easy       |
+| 38  | [Append and Delete](problem_solving/algorithms/easy/append_and_delete)                              | Algorithms | Easy       |
