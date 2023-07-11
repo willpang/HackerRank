@@ -49,3 +49,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 37  | [Find Digits](problem_solving/algorithms/easy/find_digits)                                          | Algorithms | Easy       |
 | 38  | [Append and Delete](problem_solving/algorithms/easy/append_and_delete)                              | Algorithms | Easy       |
 | 39  | [Sherlock and Squares](problem_solving/algorithms/easy/sherlock_and_squares)                        | Algorithms | Easy       |
+| 40  | [Library Fine](problem_solving/algorithms/easy/library_fine)                                        | Algorithms | Easy       |
