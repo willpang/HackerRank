@@ -44,3 +44,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 32  | [Viral Advertising](problem_solving/algorithms/easy/viral_advertising)                       | Algorithms | Easy       |
 | 33  | [Save the Prisoner!](problem_solving/algorithms/easy/save_the_prisoner)                      | Algorithms | Easy       |
 | 34  | [Circular Array Rotation](problem_solving/algorithms/easy/circular_array_rotation)           | Algorithms | Easy       |
+| 35  | [Sequence Equation](problem_solving/algorithms/easy/sequence_equation)                       | Algorithms | Easy       |
