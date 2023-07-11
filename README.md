@@ -32,3 +32,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 20  | [Bill Division](problem_solving/algorithms/easy/bill_division)                 | Algorithms | Easy       |
 | 21  | [Sales by Match](problem_solving/algorithms/easy/sales_by_match)               | Algorithms | Easy       |
 | 22  | [Drawing Book](problem_solving/algorithms/easy/drawing_book)                   | Algorithms | Easy       |
+| 23  | [Counting Valleys](problem_solving/algorithms/easy/counting_valleys)           | Algorithms | Easy       |
