@@ -35,3 +35,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 23  | [Counting Valleys](problem_solving/algorithms/easy/counting_valleys)           | Algorithms | Easy       |
 | 24  | [Electronics Shop](problem_solving/algorithms/easy/electronics_shop)           | Algorithms | Easy       |
 | 25  | [Cats and a Mouse](problem_solving/algorithms/easy/cats_and_a_mouse)           | Algorithms | Easy       |
+| 26  | [Picking Numbers](problem_solving/algorithms/easy/picking_numbers)             | Algorithms | Easy       |
