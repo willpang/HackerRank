@@ -39,3 +39,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 27  | [The Hurdle Race](problem_solving/algorithms/easy/the_hurdle_race)             | Algorithms | Easy       |
 | 28  | [Designer PDF Viewer](problem_solving/algorithms/easy/designer_pdf_viewer)     | Algorithms | Easy       |
 | 29  | [Utopian Tree](problem_solving/algorithms/easy/utopian_tree)                   | Algorithms | Easy       |
+| 30  | [Angry Professor](problem_solving/algorithms/easy/angry_professor)             | Algorithms | Easy       |
