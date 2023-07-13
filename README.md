@@ -58,3 +58,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 46  | [Taum and B'day](problem_solving/algorithms/easy/taum_and_bday)                                     | Algorithms | Easy       |
 | 47  | [Modified Kaprekar Numbers](problem_solving/algorithms/easy/modified_kaprekar_numbers)              | Algorithms | Easy       |
 | 48  | [Beautiful Triplets](problem_solving/algorithms/easy/beautiful_triplets)                            | Algorithms | Easy       |
+| 49  | [Minimum Distances](problem_solving/algorithms/easy/minimum_distances)                              | Algorithms | Easy       |
