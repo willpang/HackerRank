@@ -54,3 +54,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 42  | [Repeated String](problem_solving/algorithms/easy/repeated_string)                                  | Algorithms | Easy       |
 | 43  | [Jumping on the Clouds](problem_solving/algorithms/easy/jumping_on_the_clouds)                      | Algorithms | Easy       |
 | 44  | [Equalize the Array](problem_solving/algorithms/easy/equalize_the_array)                            | Algorithms | Easy       |
+| 45  | [ACM ICPC Team](problem_solving/algorithms/easy/acm_icpc_team)                                      | Algorithms | Easy       |
