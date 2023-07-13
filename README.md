@@ -57,3 +57,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 45  | [ACM ICPC Team](problem_solving/algorithms/easy/acm_icpc_team)                                      | Algorithms | Easy       |
 | 46  | [Taum and B'day](problem_solving/algorithms/easy/taum_and_bday)                                     | Algorithms | Easy       |
 | 47  | [Modified Kaprekar Numbers](problem_solving/algorithms/easy/modified_kaprekar_numbers)              | Algorithms | Easy       |
+| 48  | [Beautiful Triplets](problem_solving/algorithms/easy/beautiful_triplets)                            | Algorithms | Easy       |
