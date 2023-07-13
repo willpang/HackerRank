@@ -50,3 +50,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 38  | [Append and Delete](problem_solving/algorithms/easy/append_and_delete)                              | Algorithms | Easy       |
 | 39  | [Sherlock and Squares](problem_solving/algorithms/easy/sherlock_and_squares)                        | Algorithms | Easy       |
 | 40  | [Library Fine](problem_solving/algorithms/easy/library_fine)                                        | Algorithms | Easy       |
+| 41  | [Cut the sticks](problem_solving/algorithms/easy/cut_the_sticks)                                    | Algorithms | Easy       |
