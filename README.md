@@ -56,3 +56,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 44  | [Equalize the Array](problem_solving/algorithms/easy/equalize_the_array)                            | Algorithms | Easy       |
 | 45  | [ACM ICPC Team](problem_solving/algorithms/easy/acm_icpc_team)                                      | Algorithms | Easy       |
 | 46  | [Taum and B'day](problem_solving/algorithms/easy/taum_and_bday)                                     | Algorithms | Easy       |
+| 47  | [Modified Kaprekar Numbers](problem_solving/algorithms/easy/modified_kaprekar_numbers)              | Algorithms | Easy       |
