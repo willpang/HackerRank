@@ -53,3 +53,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 41  | [Cut the sticks](problem_solving/algorithms/easy/cut_the_sticks)                                    | Algorithms | Easy       |
 | 42  | [Repeated String](problem_solving/algorithms/easy/repeated_string)                                  | Algorithms | Easy       |
 | 43  | [Jumping on the Clouds](problem_solving/algorithms/easy/jumping_on_the_clouds)                      | Algorithms | Easy       |
+| 44  | [Equalize the Array](problem_solving/algorithms/easy/equalize_the_array)                            | Algorithms | Easy       |
