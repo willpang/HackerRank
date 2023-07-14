@@ -65,3 +65,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 53  | [Flatland Space Stations](problem_solving/algorithms/easy/flatland_space_stations)                  | Algorithms | Easy       |
 | 54  | [Fair Rations](problem_solving/algorithms/easy/fair_rations)                                        | Algorithms | Easy       |
 | 55  | [Cavity Map](problem_solving/algorithms/easy/cavity_map)                                            | Algorithms | Easy       |
+| 56  | [Manasa and Stones](problem_solving/algorithms/easy/manasa_and_stones)                              | Algorithms | Easy       |
