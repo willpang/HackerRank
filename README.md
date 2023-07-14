@@ -67,3 +67,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 55  | [Cavity Map](problem_solving/algorithms/easy/cavity_map)                                            | Algorithms | Easy       |
 | 56  | [Manasa and Stones](problem_solving/algorithms/easy/manasa_and_stones)                              | Algorithms | Easy       |
 | 57  | [Happy Ladybugs](problem_solving/algorithms/easy/happy_ladybugs)                                    | Algorithms | Easy       |
+| 58  | [Strange Counter](problem_solving/algorithms/easy/strange_counter)                                  | Algorithms | Easy       |
