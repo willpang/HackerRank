@@ -63,3 +63,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 51  | [Service Lane](problem_solving/algorithms/easy/service_lane)                                        | Algorithms | Easy       |
 | 52  | [Lisa's Workbook](problem_solving/algorithms/easy/lisa_s_workbook)                                  | Algorithms | Easy       |
 | 53  | [Flatland Space Stations](problem_solving/algorithms/easy/flatland_space_stations)                  | Algorithms | Easy       |
+| 54  | [Fair Rations](problem_solving/algorithms/easy/fair_rations)                                        | Algorithms | Easy       |
