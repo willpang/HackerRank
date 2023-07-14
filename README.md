@@ -60,3 +60,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 48  | [Beautiful Triplets](problem_solving/algorithms/easy/beautiful_triplets)                            | Algorithms | Easy       |
 | 49  | [Minimum Distances](problem_solving/algorithms/easy/minimum_distances)                              | Algorithms | Easy       |
 | 50  | [Chocolate Feast](problem_solving/algorithms/easy/chocolate_feast)                                  | Algorithms | Easy       |
+| 51  | [Service Lane](problem_solving/algorithms/easy/service_lane)                                        | Algorithms | Easy       |
