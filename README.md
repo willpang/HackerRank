@@ -76,3 +76,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 64  | [Two Characters](problem_solving/algorithms/easy/two_characters)                                    | Algorithms | Easy       |
 | 65  | [Caesar Cipher](problem_solving/algorithms/easy/caesar_cipher)                                      | Algorithms | Easy       |
 | 66  | [Mars Exploration](problem_solving/algorithms/easy/mars_exploration)                                | Algorithms | Easy       |
+| 67  | [HackerRank in a String!](problem_solving/algorithms/easy/hackerrank_in_a_string)                   | Algorithms | Easy       |
