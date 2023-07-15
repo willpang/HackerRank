@@ -71,3 +71,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 59  | [Big Sorting](problem_solving/algorithms/easy/big_sorting)                                          | Algorithms | Easy       |
 | 60  | [Super Reduced String](problem_solving/algorithms/easy/super_reduced_string)                        | Algorithms | Easy       |
 | 61  | [Intro to Tutorial Challenges](problem_solving/algorithms/easy/intro_to_tutorial_challenges)        | Algorithms | Easy       |
+| 62  | [CamelCase](problem_solving/algorithms/easy/camelcase)                                              | Algorithms | Easy       |
