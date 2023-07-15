@@ -75,3 +75,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 63  | [Insertion Sort - Part 1](problem_solving/algorithms/easy/insertion_sort_part_1)                    | Algorithms | Easy       |
 | 64  | [Two Characters](problem_solving/algorithms/easy/two_characters)                                    | Algorithms | Easy       |
 | 65  | [Caesar Cipher](problem_solving/algorithms/easy/caesar_cipher)                                      | Algorithms | Easy       |
+| 66  | [Mars Exploration](problem_solving/algorithms/easy/mars_exploration)                                | Algorithms | Easy       |
