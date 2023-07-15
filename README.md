@@ -4,7 +4,12 @@
 
 ### Description
 
-Welcome aboard fellow developer, this is where you will find HackerRank problems that I have managed to solved in the past.
+Welcome aboard fellow developer, this is where you will find the solutions to HackerRank problems that I have managed to solve in the past.
+
+## Getting Started
+
+Create an account as a candidate in [HackerRank](https://www.hackerrank.com/dashboard).
+Try to solve the problem there and if you are ever stuck, learn the solution here.
 
 ## Challenges
 
