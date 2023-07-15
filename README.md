@@ -79,3 +79,4 @@ Welcome aboard fellow developer, this is where you will find HackerRank problems
 | 67  | [HackerRank in a String!](problem_solving/algorithms/easy/hackerrank_in_a_string)                   | Algorithms | Easy       |
 | 68  | [Pangrams](problem_solving/algorithms/easy/pangrams)                                                | Algorithms | Easy       |
 | 69  | [Weighted Uniform Strings](problem_solving/algorithms/easy/weighted_uniform_strings)                | Algorithms | Easy       |
+| 70  | [Separate the Numbers](problem_solving/algorithms/easy/separate_the_numbers)                        | Algorithms | Easy       |
