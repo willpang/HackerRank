@@ -90,3 +90,4 @@ Try to solve the problem there and if you are ever stuck, learn the solution her
 | 73  | [Gemstones](problem_solving/algorithms/easy/gemstones)                                              | Algorithms | Easy       |
 | 74  | [Alternating Characters](problem_solving/algorithms/easy/alternating_characters)                    | Algorithms | Easy       |
 | 75  | [Beautiful Binary String](problem_solving/algorithms/easy/beautiful_binary_string)                  | Algorithms | Easy       |
+| 76  | [The Love-Letter Mystery](problem_solving/algorithms/easy/the_love_letter_mystery)                  | Algorithms | Easy       |
