@@ -87,3 +87,4 @@ Try to solve the problem there and if you are ever stuck, learn the solution her
 | 70  | [Separate the Numbers](problem_solving/algorithms/easy/separate_the_numbers)                        | Algorithms | Easy       |
 | 71  | [Funny String](problem_solving/algorithms/easy/funny_string)                                        | Algorithms | Easy       |
 | 72  | [Counting Sort 1](problem_solving/algorithms/easy/counting_sort_1)                                  | Algorithms | Easy       |
+| 73  | [Gemstones](problem_solving/algorithms/easy/gemstones)                                              | Algorithms | Easy       |
