@@ -94,3 +94,4 @@ Try to solve the problem there and if you are ever stuck, learn the solution her
 | 77  | [Palindrome Index](problem_solving/algorithms/easy/palindrome_index)                                | Algorithms | Easy       |
 | 78  | [Anagram](problem_solving/algorithms/easy/anagram)                                                  | Algorithms | Easy       |
 | 79  | [Making Anagrams](problem_solving/algorithms/easy/making_anagrams)                                  | Algorithms | Easy       |
+| 80  | [Game of Thrones - I](problem_solving/algorithms/easy/game_of_thrones_i)                            | Algorithms | Easy       |
