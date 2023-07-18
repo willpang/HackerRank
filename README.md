@@ -92,3 +92,4 @@ Try to solve the problem there and if you are ever stuck, learn the solution her
 | 75  | [Beautiful Binary String](problem_solving/algorithms/easy/beautiful_binary_string)                  | Algorithms | Easy       |
 | 76  | [The Love-Letter Mystery](problem_solving/algorithms/easy/the_love_letter_mystery)                  | Algorithms | Easy       |
 | 77  | [Palindrome Index](problem_solving/algorithms/easy/palindrome_index)                                | Algorithms | Easy       |
+| 78  | [Anagram](problem_solving/algorithms/easy/anagram)                                                  | Algorithms | Easy       |
