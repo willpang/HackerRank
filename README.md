@@ -104,3 +104,4 @@ Try to solve the problem there and if you are ever stuck, learn the solution her
 | 87  | [Minimum Absolute Difference in an Array](problem_solving/algorithms/easy/minimum_absolute_difference_in_an_array) | Algorithms | Easy       |
 | 88  | [Lonely Integer](problem_solving/algorithms/easy/lonely_integer)                                                   | Algorithms | Easy       |
 | 89  | [Sum vs XOR](problem_solving/algorithms/easy/sum_vs_xor)                                                           | Algorithms | Easy       |
+| 90  | [Flipping bits](problem_solving/algorithms/easy/flipping_bits)                                                     | Algorithms | Easy       |
