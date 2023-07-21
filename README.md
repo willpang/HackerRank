@@ -106,3 +106,4 @@ Try to solve the problem there and if you are ever stuck, learn the solution her
 | 89  | [Sum vs XOR](problem_solving/algorithms/easy/sum_vs_xor)                                                           | Algorithms | Easy       |
 | 90  | [Flipping bits](problem_solving/algorithms/easy/flipping_bits)                                                     | Algorithms | Easy       |
 | 91  | [Game of Stones](problem_solving/algorithms/easy/game_of_stones)                                                   | Algorithms | Easy       |
+| 92  | [Tower Breakers](problem_solving/algorithms/easy/tower_breakers)                                                   | Algorithms | Easy       |
