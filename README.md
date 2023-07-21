@@ -107,3 +107,4 @@ Try to solve the problem there and if you are ever stuck, learn the solution her
 | 90  | [Flipping bits](problem_solving/algorithms/easy/flipping_bits)                                                     | Algorithms | Easy       |
 | 91  | [Game of Stones](problem_solving/algorithms/easy/game_of_stones)                                                   | Algorithms | Easy       |
 | 92  | [Tower Breakers](problem_solving/algorithms/easy/tower_breakers)                                                   | Algorithms | Easy       |
+| 93  | [A Chessboard Game](problem_solving/algorithms/easy/a_chessboard_game)                                             | Algorithms | Easy       |
