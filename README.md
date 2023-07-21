@@ -98,3 +98,4 @@ Try to solve the problem there and if you are ever stuck, learn the solution her
 | 81  | [Two Strings](problem_solving/algorithms/easy/two_strings)                                          | Algorithms | Easy       |
 | 82  | [String Construction](problem_solving/algorithms/easy/string_construction)                          | Algorithms | Easy       |
 | 83  | [Ice Cream Parlor](problem_solving/algorithms/easy/ice_cream_parlor)                                | Algorithms | Easy       |
+| 84  | [Missing Numbers](problem_solving/algorithms/easy/missing_numbers)                                  | Algorithms | Easy       |
