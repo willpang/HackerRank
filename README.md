@@ -102,3 +102,4 @@ Try to solve the problem there and if you are ever stuck, learn the solution her
 | 85  | [Sherlock and Array](problem_solving/algorithms/easy/sherlock_and_array)                                           | Algorithms | Easy       |
 | 86  | [Sherlock and Array](problem_solving/algorithms/easy/sherlock_and_array)                                           | Algorithms | Easy       |
 | 87  | [Minimum Absolute Difference in an Array](problem_solving/algorithms/easy/minimum_absolute_difference_in_an_array) | Algorithms | Easy       |
+| 88  | [Lonely Integer](problem_solving/algorithms/easy/lonely_integer)                                                   | Algorithms | Easy       |
