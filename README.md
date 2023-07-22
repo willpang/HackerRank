@@ -125,5 +125,6 @@ Try to solve the problem there and if you are ever stuck, learn the solution her
 | 4   | [Left Rotation](problem_solving/data_structures/easy/left_rotation)                                                           | Data Structures | Easy       |
 | 5   | [Print the Elements of a Linked List](problem_solving/data_structures/easy/print_the_elements_of_a_linked_list)               | Data Structures | Easy       |
 | 6   | [Insert a Node at the Tail of a Linked List](problem_solving/data_structures/easy/insert_a_node_at_the_tail_of_a_linked_list) | Data Structures | Easy       |
+| 7   | [Insert a node at the head of a linked list](problem_solving/data_structures/easy/insert_a_node_at_the_head_of_a_linked_list) | Data Structures | Easy       |
 
 </details>
