@@ -122,5 +122,6 @@ Try to solve the problem there and if you are ever stuck, learn the solution her
 | 1   | [Arrays - DS](problem_solving/data_structures/easy/arrays_ds)       | Data Structures | Easy       |
 | 2   | [2D Array - DS](problem_solving/data_structures/easy/2d_array_ds)   | Data Structures | Easy       |
 | 3   | [Dynamic Array](problem_solving/data_structures/easy/dynamic_array) | Data Structures | Easy       |
+| 4   | [Left Rotation](problem_solving/data_structures/easy/left_rotation) | Data Structures | Easy       |
 
 </details>
