@@ -117,9 +117,10 @@ Try to solve the problem there and if you are ever stuck, learn the solution her
 <details>
 <summary>Data Structures | Easy</summary>
 
-| No  | Challenge                                                         | Domain          | Difficulty |
-| --- | ----------------------------------------------------------------- | --------------- | ---------- |
-| 1   | [Arrays - DS](problem_solving/data_structures/easy/arrays_ds)     | Data Structures | Easy       |
-| 2   | [2D Array - DS](problem_solving/data_structures/easy/2d_array_ds) | Data Structures | Easy       |
+| No  | Challenge                                                           | Domain          | Difficulty |
+| --- | ------------------------------------------------------------------- | --------------- | ---------- |
+| 1   | [Arrays - DS](problem_solving/data_structures/easy/arrays_ds)       | Data Structures | Easy       |
+| 2   | [2D Array - DS](problem_solving/data_structures/easy/2d_array_ds)   | Data Structures | Easy       |
+| 3   | [Dynamic Array](problem_solving/data_structures/easy/dynamic_array) | Data Structures | Easy       |
 
 </details>
