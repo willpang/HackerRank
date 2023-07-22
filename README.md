@@ -13,6 +13,9 @@ Try to solve the problem there and if you are ever stuck, learn the solution her
 
 ## Challenges
 
+<details>
+<summary>Algorithms | Easy</summary>
+
 | No  | Challenge                                                                                                          | Domain     | Difficulty |
 | --- | ------------------------------------------------------------------------------------------------------------------ | ---------- | ---------- |
 | 1   | [Solve Me First](problem_solving/algorithms/easy/solve_me_first)                                                   | Algorithms | Easy       |
@@ -108,3 +111,14 @@ Try to solve the problem there and if you are ever stuck, learn the solution her
 | 91  | [Game of Stones](problem_solving/algorithms/easy/game_of_stones)                                                   | Algorithms | Easy       |
 | 92  | [Tower Breakers](problem_solving/algorithms/easy/tower_breakers)                                                   | Algorithms | Easy       |
 | 93  | [A Chessboard Game](problem_solving/algorithms/easy/a_chessboard_game)                                             | Algorithms | Easy       |
+
+</details>
+
+<details>
+<summary>Data Structures | Easy</summary>
+
+| No  | Challenge                                                     | Domain          | Difficulty |
+| --- | ------------------------------------------------------------- | --------------- | ---------- |
+| 1   | [Arrays - DS](problem_solving/data_structures/easy/arrays_ds) | Data Structures | Easy       |
+
+</details>
