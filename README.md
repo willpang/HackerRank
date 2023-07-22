@@ -128,5 +128,6 @@ Try to solve the problem there and if you are ever stuck, learn the solution her
 | 7   | [Insert a node at the head of a linked list](problem_solving/data_structures/easy/insert_a_node_at_the_head_of_a_linked_list)            | Data Structures | Easy       |
 | 8   | [Insert a node at a specific position in a linked list](problem_solving/data_structures/easy/insert_a_node_at_specific_in_a_linked_list) | Data Structures | Easy       |
 | 9   | [Delete a Node](problem_solving/data_structures/easy/delete_a_node)                                                                      | Data Structures | Easy       |
+| 10  | [Print in Reverse](problem_solving/data_structures/easy/print_in_reverse)                                                                | Data Structures | Easy       |
 
 </details>
